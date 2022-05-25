@@ -1,5 +1,5 @@
 
-__SSHFREE__
+__SITE__
 
 __Recomendado__
 - Ubuntu 18
@@ -7,4 +7,4 @@ __Recomendado__
 __Instalar apenas o SCRIPT__
 
 
-```apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/NT-GIT-HUB/SSHFREE/main/install; chmod 777 install && ./install```
+```rm -rf BOT > /dev/null 2>&1 && bash <(wget -qO- https://raw.githubusercontent.com/NT-GIT-HUB/SSH/main/install)```
